@@ -6,10 +6,9 @@ title: Wartungsübersicht
 <h1>Netways Managed Services Wartungsseite</h1>
 <p>Informationen zu unseren Wartungsintervallen</p>
 
-<h2>{{ page.title }}</h2>
 	<ul class="posts">
 
 	  {% for post in site.posts %}
 	    <li><span>{{ post.date | date_to_string }}</span> {{ post.content }} </li>	
 	  {% endfor %}
-</ul>
+	</ul>
