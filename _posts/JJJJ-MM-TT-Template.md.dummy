@@ -33,3 +33,4 @@ Beschreibung: [ ... ]
 # genau so der Titel (z. B. Wartungsbeginn server1, server2, etc...) und das Datum (Format beachten!). 
 # Auch die Bindestriche MÜSSEN so bleiben, damit der Eintrag richtig eingelesen werden kann.
 # Der Freitext nach der zweiten Reihe Bindestriche kann bie Bedarf angepasst werden.
+# Alles Weitere z. B. Formatierung und Veröffentlichung werden von github und Jekyll übernommen.
