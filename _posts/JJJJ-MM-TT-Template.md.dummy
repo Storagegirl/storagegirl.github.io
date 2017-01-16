@@ -24,9 +24,12 @@ Beschreibung: [ ... ]
 
 
 
-#Dies ist ein Kommentar
-#Zeilen mit Hashtag sind als Kommentare zu werten und vor Veröffentlichung zu LÖSCHEN.
-#Einen Eintrag auswählen und nicht zutreffende Einträge bitte ENTFERNEN.
-#Der Dateiname MUSS das Format JJJJ-MM-TT-Name.md tragen, um automatisch veröffentlicht zu werden!
-#Die ersten 5 Zeilen MÜSSEN im hier dargestellten Format bleiben: Layout Post muss vorhanden sein, #genau so der Titel (z. B. Wartungsbeginn server1, server2, etc...) und das Datum (Format beachten!). #Auch die Bindestriche MÜSSEN so bleiben, damit der Eintrag richtig eingelesen werden kann.
-#Der Freitext nach der zweiten Reihe Bindestriche kann bi BEdaarf angepasst werden.
+# Dies ist ein Kommentar
+# Zeilen mit Hashtag sind als Kommentare zu werten und vor Veröffentlichung zu LÖSCHEN.
+# Einen Eintrag auswählen und nicht zutreffende Einträge bitte ENTFERNEN.
+# Der Dateiname MUSS das Format JJJJ-MM-TT-Name.md tragen, um automatisch veröffentlicht zu werden!
+# Die ersten 5 Zeilen MÜSSEN im hier dargestellten Format bleiben: 
+# Layout Post muss vorhanden sein
+# genau so der Titel (z. B. Wartungsbeginn server1, server2, etc...) und das Datum (Format beachten!). 
+# Auch die Bindestriche MÜSSEN so bleiben, damit der Eintrag richtig eingelesen werden kann.
+# Der Freitext nach der zweiten Reihe Bindestriche kann bie Bedarf angepasst werden.
