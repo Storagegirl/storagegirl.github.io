@@ -41,21 +41,17 @@ ul {
 }
 
 .boxdate {
+    float: left;
     margin: auto;
     width: 75%;
     border: 5px solid red;
 }
 
-.boxtitle {
+.boxtitlecontent {
+    float: left;
     margin: auto;
     width: 75%;
     border: 5px solid blue;
-}
-
-.boxcontent {
-    margin: auto;
-    width: 75%;
-    border: 5px solid green;
 }
 
 .boxright {
