@@ -3,25 +3,31 @@ layout: default
 title: Wartungsübersicht
 ---
 
+<div class=boxsocial>
 
+</div>
+
+<div class=boxheader>
 	
 <h1>Netways Managed Services Wartungsseite <a href="https://storagegirl.github.io/atom.xml"> <img src="200px-Generic_Feed-icon.svg.png" alt="RSS Feed" style="width:50px;height:50px;"/> </a></h1>
 <p>Informationen zu unseren Wartungsintervallen</p>
 
+</div>
 
+<div class=boxblog>
 	<ul class="posts">
 		  
 	  {% for post in site.posts %}
-	    <div class=box3> 
+	    <div class=boxdate> 
 	      {{ post.date | date_to_long_string }}
 	    </div>
-	    <div class=box4>
+	    <div class=boxtitle>
 	      {{ post.title }} 
 	    </div>
-	    <div class=box5>		
+	    <div class=boxcontent>		
 	      {{ post.content }} 	    
 	    </div>
 	  {% endfor %}
 		   			
 	</ul>
-
+</div>
