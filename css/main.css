@@ -5,39 +5,39 @@ body {
 h1 {
     font-family: arial;
     color: black;
-    text-align: centered;
+    text-align: left;
 }
 
 h2 {
     font-family: arial;
     color: black;
-    text-align: centered;
+    text-align: left;
 }
 
 p {
     font-family: arial;
     color: black;
     font-size: 18px;
-    text-align: centered;
+    text-align: left;
 }
 
 ul {
     font-family: arial;
     color: black;
     font-size: 18px;
-    text-align: centered;
+    text-align: left;
 }
 
 .boxsocial {
     margin: auto;
     width: 100%;
-    border: 1px solid yellow;
+    border: 1px solid black;
 }
 
 .boxheader {
     margin: auto;
     width: 100%;
-    border: 1px solid orange;
+    border: 1px solid black;
 }
 
 .boxdate {
@@ -46,7 +46,7 @@ ul {
     padding: 10px;
     width: 150px;
     height: 200px;
-    border: 5px solid red;
+    border: 1px solid black;
 }
 
 .boxtitlecontent {
@@ -55,6 +55,6 @@ ul {
     padding: 10px;
     width: 500px;
     height: 200px;
-    border: 5px solid blue;
+    border: 1px solid black;
 }
 
