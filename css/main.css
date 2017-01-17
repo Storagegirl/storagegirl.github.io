@@ -42,7 +42,7 @@ ul {
 
 .boxdate {
     float: left;
-    margin: auto;
+    margin: 10px;
     width: 150px;
     height: 200px;
     border: 5px solid red;
@@ -50,7 +50,7 @@ ul {
 
 .boxtitlecontent {
     float: left;
-    margin: auto;
+    margin: 10px;
     width: 500px;
     height: 200px;
     border: 5px solid blue;
