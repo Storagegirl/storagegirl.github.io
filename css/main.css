@@ -30,42 +30,36 @@ ul {
 
 .boxsocial {
     margin: auto;
-    width: 70%;
-    border: 1px solid black;
+    width: 100%;
+    border: 1px solid yellow;
 }
 
 .boxheader {
     margin: auto;
-    width: 70%;
-    border: 1px solid black;
-}
-
-.boxblog {
-    margin: auto;
-    width: 55%;
-    border: 5px solid black;
+    width: 100%;
+    border: 1px solid orange;
 }
 
 .boxdate {
     margin: auto;
     width: 75%;
-    border: 5px solid black;
+    border: 5px solid red;
 }
 
 .boxtitle {
     margin: auto;
     width: 75%;
-    border: 5px solid black;
+    border: 5px solid blue;
 }
 
 .boxcontent {
     margin: auto;
     width: 75%;
-    border: 5px solid black;
+    border: 5px solid green;
 }
 
 .boxright {
     margin: auto;
     width: 75%;
-    border: 5px solid black;
+    border: 5px solid gray;
 }
