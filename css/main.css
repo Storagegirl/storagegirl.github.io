@@ -1,4 +1,4 @@
-ebody {
+body {
     background-color: #fff5e6;
 }
 
@@ -28,3 +28,8 @@ ul {
     text-align: centered;
 }
 
+.box {
+    float: centered;
+    width: 1000px;
+    border: 5px solid black;
+}
