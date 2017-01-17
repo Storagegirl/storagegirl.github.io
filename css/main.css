@@ -44,6 +44,7 @@ ul {
     float: left;
     margin: auto;
     width: 75%;
+    height: 200px;
     border: 5px solid red;
 }
 
@@ -51,11 +52,12 @@ ul {
     float: left;
     margin: auto;
     width: 75%;
+    height: 200px;
     border: 5px solid blue;
 }
 
 .boxright {
     margin: auto;
-    width: 75%;
+    width: 25;
     border: 5px solid gray;
 }
