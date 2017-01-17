@@ -31,13 +31,11 @@ ul {
 .boxsocial {
     margin: auto;
     width: 100%;
-    border: 1px solid black;
 }
 
 .boxheader {
     margin: auto;
     width: 100%;
-    border: 1px solid black;
 }
 
 .boxdate {
@@ -46,7 +44,6 @@ ul {
     padding: 10px;
     width: 150px;
     height: 200px;
-    border: 1px solid black;
 }
 
 .boxtitlecontent {
@@ -55,6 +52,5 @@ ul {
     padding: 10px;
     width: 500px;
     height: 200px;
-    border: 1px solid black;
 }
 
