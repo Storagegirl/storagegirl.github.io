@@ -1,5 +1,5 @@
 body {
-    background-color: #fff5e6;
+    background-color: white;
 }
 
 h1 {
@@ -29,6 +29,7 @@ ul {
 }
 
 .box {
+    background-color: #e6e6e6;
     margin: auto;
     width: 75%;
     border: 5px solid black;
