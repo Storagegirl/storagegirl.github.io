@@ -30,19 +30,19 @@ ul {
 
 .boxsocial {
     margin: auto;
-    width: 75%;
-    border: 5px solid black;
+    width: 70%;
+    border: 1px solid black;
 }
 
 .boxheader {
     margin: auto;
-    width: 75%;
-    border: 5px solid black;
+    width: 70%;
+    border: 1px solid black;
 }
 
 .boxblog {
     margin: auto;
-    width: 75%;
+    width: 55%;
     border: 5px solid black;
 }
 
