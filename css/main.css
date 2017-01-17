@@ -5,23 +5,31 @@ body {
 h1 {
     font-family: arial;
     color: black;
-    text-align: left;
+    text-align: centered;
 }
 
 h2 {
     font-family: arial;
     color: black;
-    text-align: left;
+    text-align: centered;
 }
 
 p {
     font-family: arial;
     color: black;
     font-size: 18px;
+    text-align: centered;
 }
 
 ul {
     font-family: arial;
     color: black;
     font-size: 18px;
+    text-align: centered;
+}
+
+.box {
+    float: centered;
+    width: 1000px;
+    border: 5px solid black;
 }
