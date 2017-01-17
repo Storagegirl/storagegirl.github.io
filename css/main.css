@@ -41,7 +41,7 @@ ul {
 .boxdate {
     text-align: left;
     float: left;
-    margin: auto;
+    margin: 0px;
     padding: 0px;
     width: 150px;
     border-style: solid;
@@ -52,7 +52,7 @@ ul {
 .boxtitlecontent {
     text-align: left;
     float: left;
-    margin: auto;
+    margin: 0px;
     padding: 0px;
     width: 598px;
     border-style: solid;
