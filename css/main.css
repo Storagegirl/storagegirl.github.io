@@ -29,6 +29,14 @@ a {
     text-align: right;
     text-decoration: none;
 }
+
+hr {
+    border: none;
+    border-top: 1px solid #FD5B25;
+    color: #FD5B25;
+    background-color: #FD5B25;
+    height: 5px;
+}           
     
 .boxsocial {
     text-align: right;
