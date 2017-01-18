@@ -39,8 +39,6 @@ hr {
 }           
     
 .boxsocial {
-    display: inline-block;
-    margin: 10px;
     text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -73,7 +71,7 @@ hr {
     font-size: 18px;
 }
 
-.boxtitlecontent {
+.boxtitle {
     text-align: left;
     font-weight: bold;
     float: left;
