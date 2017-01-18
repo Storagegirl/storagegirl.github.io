@@ -35,7 +35,7 @@ title: Wartungsübersicht
 		{{ post.title }}
 		</div>
 		<div class=boxtime>
-		{{ post.time }}
+		{{ post.time | time: "%H:%M" }}
 		</div>
 		<div class=boxcontent>
 		{{ post.content }} 	
