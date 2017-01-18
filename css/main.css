@@ -39,6 +39,8 @@ hr {
 }           
     
 .boxsocial {
+    display: inline-block;
+    margin: 10px;
     text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
