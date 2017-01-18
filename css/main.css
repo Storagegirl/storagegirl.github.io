@@ -30,6 +30,12 @@ a {
     text-decoration: none;
 }
 
+hr {
+    color: #FD5B25;
+    width: 100%
+    height: 3px;
+}
+    
 .boxsocial {
     text-align: right;
     padding-top: 15px;
