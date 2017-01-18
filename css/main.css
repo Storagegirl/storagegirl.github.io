@@ -56,9 +56,6 @@ hr {
     font-weight: bold;
     float: left;
     width: 150px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
     font-family: arial;
     color: black;
     font-size: 18px;
@@ -68,9 +65,6 @@ hr {
     text-align: left;
     float: left;
     width: 596px;
-    border-style: solid;
-    border-width: 1px;
-    border-color: black;
     font-family: arial;
     color: black;
     font-size: 18px;
