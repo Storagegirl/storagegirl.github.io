@@ -21,11 +21,12 @@ p {
     text-align: left;
 }
 
-ul {
+a {
     font-family: arial;
-    color: black;
-    font-size: 18px;
-    text-align: left;
+    color: #FD5B25;
+    font-size: 12px;
+    text-align: right;
+    text-decoration: none;
 }
 
 .boxsocial {
