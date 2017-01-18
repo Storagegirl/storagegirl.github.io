@@ -1,10 +1,9 @@
 ---
 layout: post
-title: "Wartungsbeginn"
 date: 2017-01-18
 ---
 
-Systeme:  Server Basement
+### Wartung Server Basement
 
 
 Wartungsbeginn: 2017-01-18 um 14:54
