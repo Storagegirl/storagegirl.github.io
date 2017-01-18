@@ -33,7 +33,8 @@ a {
 hr {
     color: #FD5B25;
     width: 100%
-    height: 6px;
+    border-width: 5px;
+    display: solid;
 }
     
 .boxsocial {
