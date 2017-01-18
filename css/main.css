@@ -61,8 +61,19 @@ hr {
     font-size: 18px;
 }
 
+.boxtime {
+    text-align: left;
+    font-weight: bold;
+    float: left;
+    width: 150px;
+    font-family: arial;
+    color: gray;
+    font-size: 18px;
+}
+
 .boxtitlecontent {
     text-align: left;
+    font-weight: bold;
     float: left;
     width: 596px;
     font-family: arial;
@@ -70,5 +81,14 @@ hr {
     font-size: 18px;
     padding-bottom: 10px;
 }
+
+.boxcontent {
+    text-align: left;
+    float: left;
+    width: 596px;
+    font-family: arial;
+    color: black;
+    font-size: 18px;
+    padding-bottom: 10px;
 
 
