@@ -27,13 +27,14 @@ title: Wartungsübersicht
 		<div class="posts">
 		{% for post in site.posts %}
 		<div class=boxdate> 
+		<hr>
 	      	{{ post.date | date_to_long_string }}
 	    	</div>
 	    	<div class=boxtitlecontent>
-	      	{{ post.title }}
-		{{ post.content }} 	    
+	      	<hr>
+		{{ post.title }}
+		{{ post.content }} 	
 		</div>
-		<hr>
 	  	{% endfor %}
 		</div>
 	</div>
