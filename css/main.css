@@ -44,6 +44,7 @@ a {
 
 .boxdate {
     text-align: left;
+    font-weight: bold;
     float: left;
     width: 150px;
     border-style: solid;
