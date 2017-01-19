@@ -44,8 +44,9 @@ footer {
     bottom:0px;
     position:fixed !important;
     position:absolute;
-    height:50px;
+    height:200px;
     width:100%;
+    background: gray;
 }
     
 .boxsocial {
