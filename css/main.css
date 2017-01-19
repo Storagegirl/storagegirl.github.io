@@ -30,7 +30,29 @@ p {
     font-size: 18px;
     text-align: left;
 }
-    
+
+#containerline {
+    width: 100%;
+    border-bottom: 1px solid #ddd;
+}
+
+#containerheader {
+    margin:auto; 
+    width:1000px;
+}
+
+#containerbody {
+    margin:auto; 
+    width:1000px;
+}
+
+#containerinfo {
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    font-size: 18px;
+}
+ 
+
 .boxlogo {
     float: left;
     width: 300px;
