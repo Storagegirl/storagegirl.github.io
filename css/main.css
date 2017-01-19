@@ -30,14 +30,6 @@ p {
     font-size: 18px;
     text-align: left;
 }
-
-hr {
-    border: none;
-    border-top: 1px solid #FD5B25;
-    color: #FD5B25;
-    background-color: #FD5B25;
-    height: 3px;
-}    
     
 .boxlogo {
     float: left;
@@ -79,6 +71,8 @@ hr {
     width: 160px;
     color: black;
     font-size: 18px;
+    border-top: 3px solid #FD5B25;
+    border-color: #FD5B25;    
 }
 
 .boxtime {
@@ -98,6 +92,8 @@ hr {
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
+    border-top: 3px solid #FD5B25;
+    border-color: #FD5B25;
 }
 
 .boxcontent {
