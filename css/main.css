@@ -52,7 +52,7 @@ header {
 
 #content {
     top:300px;
-    position:absolute;
+    position:relative;
     overflow:hidden;
     width:100%;
 }
