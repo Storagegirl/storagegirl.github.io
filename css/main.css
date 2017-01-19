@@ -42,6 +42,7 @@ hr {
 
 header {
     top:0px;
+    position:fixed !important;
     position:absolute;
     overflow: hidden;
     height: 300px;
@@ -51,7 +52,6 @@ header {
 
 #content {
     top:300px;
-    position: fixed !important;
     position:absolute;
     overflow:hidden;
     width:100%;
@@ -60,7 +60,6 @@ header {
 
 footer {
     bottom:0px;
-    position:fixed !important;
     position:absolute;
     height: 50px;
     width:1000px;
