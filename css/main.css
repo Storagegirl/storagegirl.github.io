@@ -72,12 +72,14 @@ footer {
     padding-top: 15px;
     padding-bottom: 15px;
     width: 100%;
+    height; 200px;
 }
 
 .boxheader {
     padding-top: 10px;
     padding-bottom: 30px;
     width: 100%;
+    height: 200px;
 }
 
 .boxdate {
