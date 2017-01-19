@@ -42,14 +42,15 @@ hr {
     
 .boxlogo {
     float: left;
-    width: 30%;
+    width: 300px;
 }
 
 .boxsocial {
+    float: left;
     text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 70%;    
+    width: 700px;    
 }
 
 .boxheader {
