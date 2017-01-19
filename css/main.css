@@ -42,7 +42,6 @@ hr {
 
 header {
     top:0px;
-    position:fixed !important;
     position:absolute;
     overflow: hidden;
     height: 300px;
