@@ -1,6 +1,8 @@
 body {
     background-color: white;
     margin-bottom: 50px;
+    font-family: 'Open Sans', sans-serif;
+    color: black;
 }
 
 footer {
@@ -21,19 +23,7 @@ footer a {
     text-decoration: none;
 }
 
-h1 {
-    font-family: 'Open Sans', sans-serif;
-    color: black;
-}
-
-h2 {
-    font-family: 'Open Sans', sans-serif;
-    color: black;
-}
-
 p {
-    font-family: 'Open Sans', sans-serif;
-    color: black;
     font-size: 18px;
     text-align: left;
 }
@@ -41,7 +31,6 @@ p {
 a {
     display: inline-block;
     margin-left: 10px;
-    font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     color: #FD5B25;
     font-size: 12px;
@@ -65,7 +54,6 @@ hr {
 }
 
 .boxsocial {
-    font-family: 'Open Sans', sans-serif;
     float: left;
     text-align: right;
     padding-top: 10px;
@@ -74,7 +62,6 @@ hr {
 }
 
 .boxheader {
-    font-family: 'Open Sans', sans-serif;
     clear: left;
     text-align: left;
     padding-top: 10px;
@@ -87,7 +74,6 @@ hr {
     font-weight: bold;
     float: left;
     width: 160px;
-    font-family: 'Open Sans', sans-serif;
     color: black;
     font-size: 18px;
 }
@@ -97,7 +83,6 @@ hr {
     font-weight: bold;
     float: left;
     width: 160px;
-    font-family: 'Open Sans', sans-serif;
     color: gray;
     font-size: 18px;
 }
@@ -107,7 +92,6 @@ hr {
     font-weight: bold;
     float: left;
     width: 836px;
-    font-family: 'Open Sans', sans-serif;
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
@@ -117,7 +101,6 @@ hr {
     text-align: left;
     float: left;
     width: 836px;
-    font-family: 'Open Sans', sans-serif;
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
