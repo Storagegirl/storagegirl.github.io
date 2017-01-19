@@ -56,7 +56,7 @@ hr {
 
 .boxheader {
     font-family: 'Open Sans', sans-serif;
-    float: left;
+    clear: left;
     text-align: left;
     padding-top: 10px;
     padding-bottom: 30px;
