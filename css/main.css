@@ -53,7 +53,7 @@ header {
 #content {
     top:300px;
     position:relative;
-    overflow:auto;
+    overflow:hidden;
     width:100%;
 }
     
