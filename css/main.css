@@ -39,32 +39,6 @@ hr {
     background-color: #FD5B25;
     height: 3px;
 }    
-
-header {
-    top:0px;
-    position:fixed !important;
-    position:absolute;
-    overflow: hidden;
-    height: 300px;
-    width:1000px;
-    background: lightgray;
-}
-
-#content {
-    top:300px;
-    position:relative;
-    overflow:hidden;
-    width:100%;
-}
-    
-
-footer {
-    bottom:0px;
-    position:absolute;
-    height: 50px;
-    width:1000px;
-    background: lightgray;
-}
     
 .boxsocial {
     text-align: right;
