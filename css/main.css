@@ -38,7 +38,14 @@ hr {
     color: #FD5B25;
     background-color: #FD5B25;
     height: 3px;
-}           
+}    
+
+header {
+    top:0px;
+    position:fixed !important;
+    position:absolute;
+    width:1000px;
+}
 
 footer {
     bottom:0px;
