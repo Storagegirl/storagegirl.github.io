@@ -39,6 +39,14 @@ hr {
     background-color: #FD5B25;
     height: 3px;
 }           
+
+footer {
+    bottom:0px;
+    position:fixed !important;
+    position:absolute;
+    height:50px;
+    width:100%;
+}
     
 .boxsocial {
     text-align: right;
