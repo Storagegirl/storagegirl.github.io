@@ -42,7 +42,6 @@ hr {
 
 header {
     top:0px;
-    position:fixed !important;
     position:absolute;
     width:1000px;
 }
