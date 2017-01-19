@@ -52,7 +52,8 @@ header {
 
 #content {
     top:300px;
-    position:relative;
+    position: fixed !important;
+    position:absolute;
     overflow:hidden;
     width:100%;
 }
