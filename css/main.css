@@ -40,11 +40,16 @@ hr {
     height: 3px;
 }    
     
+.boxlogo {
+    float: right;
+    width: 30%;
+}
+
 .boxsocial {
     text-align: right;
     padding-top: 15px;
     padding-bottom: 15px;
-    width: 100%;
+    width: 70%;    
 }
 
 .boxheader {
