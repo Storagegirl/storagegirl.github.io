@@ -45,7 +45,7 @@ header {
     position:fixed !important;
     position:absolute;
     overflow: hidden;
-    height: 400px;
+    height: 300px;
     width:1000px;
     background: lightgray;
 }
@@ -72,14 +72,14 @@ footer {
     padding-top: 15px;
     padding-bottom: 15px;
     width: 100%;
-    height; 200px;
+    height: 150px;
 }
 
 .boxheader {
     padding-top: 10px;
     padding-bottom: 30px;
     width: 100%;
-    height: 200px;
+    height: 150px;
 }
 
 .boxdate {
