@@ -2,11 +2,17 @@
 
 # Der Dateiname MUSS das Format JJJJ-MM-TT-Name.md tragen und im /_post Directory liegen, um automatisch veröffentlicht zu werden!
 # Die ersten 5 Zeilen MÜSSEN im hier dargestellten Format bleiben: 
-# Layout Post muss vorhanden sein
-# genau so der Titel (z. B. Wartungsbeginn server1, server2, etc...) und das Datum (Format beachten!). 
-# Auch die Bindestriche MÜSSEN so bleiben, damit der Eintrag richtig eingelesen werden kann.
-# Der Freitext nach der zweiten Reihe Bindestriche kann bei Bedarf angepasst werden.
-# Alles Weitere z. B. Formatierung und Veröffentlichung werden von github und Jekyll übernommen.
+
+    ---
+    layout: post
+    title: "Betreff"
+    date: JJJJ-MM-TT
+    time: "HH:MM"
+    ---
+    * Layout Post muss vorhanden sein
+    * genau so der Titel (z. B. Wartungsbeginn server1, server2, etc...) und das Datum (Format beachten!). 
+    * Auch die Bindestriche MÜSSEN so bleiben, damit der Eintrag richtig eingelesen werden kann.
+
 # Die Tabellen müssen immer folgendes Format haben (Anzahl Leerzeichen bzw. Bindestriche ist egal):
 
     |         |                 |
@@ -14,3 +20,7 @@
     |         |                 |
     |         |                 |
     |         |                 |
+
+# Alles Weitere z. B. Formatierung und Veröffentlichung werden von github und Jekyll übernommen.
+
+# Bei Fragen bitte wenden an Nicole Lang
