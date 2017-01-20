@@ -32,6 +32,12 @@ table {
     vertical-align: top;
 }    
 
+th {
+    font-weight: normal;
+    text-align: left;
+    vertical-align: top;
+}    
+
 p {
     font-size: 18px;
     text-align: left;
