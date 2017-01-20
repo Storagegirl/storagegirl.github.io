@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Wartungsende [INFO]"
+date: JJJJ-MM-TT
+time: "HH:MM"
+---
+
+|                      |                                                                      |
+|----------------------|----------------------------------------------------------------------|
+| Systeme:             | [NAME]                                                               |
+| Wartungsende:        | Voraussichtlich am [JJJJ-MM-TT] um [HH:MM] Uhr                       |    
+| Beschreibung:        | Wartungsarbeiten an den genannten Services wurden erfolgreich abgeschlossen.       |
+| Betroffen:           | Kunden im RZ [NAME]                                                  |
