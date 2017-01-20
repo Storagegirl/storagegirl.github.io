@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Wartungsbeginn [INFO]"
+date: JJJJ-MM-TT
+time: "HH:MM"
+---
+
+|                      |                                                                      |
+|----------------------|----------------------------------------------------------------------|
+| Systeme:             | [NAME]                                                               |
+| Wartungsbeginn:      | [JJJJ-MM-TT] um [HH:MM] Uhr                                          | 
+| Wartungsende:        | Voraussichtlich am [JJJJ-MM-TT] um [HH:MM] Uhr                       |    
+| Beschreibung:        | Aufgrund von Wartungsarbeiten sind genannte Services nicht vefügbar. Aufgrund von Wartungsarbeiten sind genannte Services nicht vefügbar.  |
+| Betroffen:           | Kunden im RZ [NAME]                                                  |
