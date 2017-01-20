@@ -22,8 +22,8 @@ footer {
 }
 
 footer a {
-    color: white;
-    text-decoration: #aaa;
+    color: #aaa;
+    text-decoration: none;
 }
 
 table {
