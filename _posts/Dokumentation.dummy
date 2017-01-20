@@ -1,5 +1,9 @@
 # Dokumentation
 
+# Diese Webseite is mit Github Pages und Jekyll gebaut.
+# Formatierung in HTML, CSS und Markdown.
+
+# Format für die Post-Einträge:
 # Der Dateiname MUSS das Format JJJJ-MM-TT-Name.md tragen und im /_post Directory liegen, um automatisch veröffentlicht zu werden!
 # Die ersten 5 Zeilen MÜSSEN im hier dargestellten Format bleiben: 
 
@@ -23,4 +27,4 @@
 
 # Alles Weitere z. B. Formatierung und Veröffentlichung werden von github und Jekyll übernommen.
 
-# Bei Fragen bitte wenden an Nicole Lang
+# Bei Fragen bitte wenden an Nicole Lang oder Netways Infrastruktur.
