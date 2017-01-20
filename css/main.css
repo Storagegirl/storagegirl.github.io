@@ -33,6 +33,7 @@ table {
 }    
 
 th {
+    display: none;
     font-weight: normal;
     text-align: left;
     vertical-align: top;
