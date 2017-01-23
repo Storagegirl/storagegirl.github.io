@@ -35,11 +35,11 @@ title: Wartungsübersicht
 	      	{{ post.date | date_to_long_string }}
 	    	</div>
 	    	<div class="boxtitle">
-                <i class="fa fa-{{ post.type }} fa-3x" aria-hidden="true"></i>
 		{{ post.title }}
 		</div>
 		<div class="boxtime">
-		{{ post.time }}
+		{{ post.time }}<br>
+                <i class="fa fa-{{ post.type }} fa-3x" aria-hidden="true"></i>
 		</div>
 		<div class="boxcontent">
 		{{ post.content }} 	
