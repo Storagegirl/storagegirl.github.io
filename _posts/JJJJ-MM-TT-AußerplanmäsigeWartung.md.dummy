@@ -6,10 +6,10 @@ time: "HH:MM"
 fa: "medkit"
 ---
 
-|                    |  |                                                                      |
-|--------------------|--|----------------------------------------------------------------------|
-| Systems:           |  | [NAME]                                                               |
-| Start:             |  | [JJJJ-MM-TT] at [HH:MM]                                              | 
-| End:               |  | Expected on [JJJJ-MM-TT] at [HH:MM]                                  |    
-| Description:       |  | Due to system failure the above mentioned services are currently not available. |
-| Affected:          |  | Customers of [NAME]                                                  |
+|                    |   |                                                                      |
+|--------------------|---|----------------------------------------------------------------------|
+| Systems:           |   | [NAME]                                                               |
+| Start:             |   | [JJJJ-MM-TT] at [HH:MM]                                              | 
+| End:               |   | Expected on [JJJJ-MM-TT] at [HH:MM]                                  |    
+| Description:       |   | Due to system failure the above mentioned services are currently not available. |
+| Affected:          |   | Customers of [NAME]                                                  |
