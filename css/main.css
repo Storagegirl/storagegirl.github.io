@@ -107,7 +107,7 @@ p {
     text-align: left;
     font-weight: bold;
     float: left;
-    width: 160px;
+    width: 200px;
     color: black;
     font-size: 18px;
     border-top: 3px solid #FD5B25;
@@ -118,7 +118,7 @@ p {
     text-align: left;
     font-weight: bold;
     float: left;
-    width: 160px;
+    width: 200px;
     color: gray;
     font-size: 18px;
 }
@@ -128,7 +128,7 @@ p {
     text-align: left;
     font-weight: bold;
     float: left;
-    width: 840px;
+    width: 800px;
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
@@ -139,7 +139,7 @@ p {
 .boxcontent {
     text-align: left;
     float: left;
-    width: 840px;
+    width: 800px;
     color: black;
     font-size: 18px;
     padding-bottom: 10px;
