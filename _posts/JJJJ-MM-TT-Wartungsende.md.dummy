@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wartungsende [INFO]"
+title: "Maintenance end [INFO]"
 date: JJJJ-MM-TT
 time: "HH:MM"
 fa: "check-square"
@@ -8,7 +8,7 @@ fa: "check-square"
 
 |                      |                                                                      |
 |----------------------|----------------------------------------------------------------------|
-| Systeme:             | [NAME]                                                               |
-| Wartungsende:        | [JJJJ-MM-TT] um [HH:MM] Uhr                       |    
-| Beschreibung:        | Wartungsarbeiten an den genannten Systemen wurden erfolgreich abgeschlossen.       |
-| Betroffen:           | Kunden im RZ [NAME]                                                  |
+| Systems:             | [NAME]                                                               |
+| End:                 | [JJJJ-MM-TT] at [HH:MM]                                              |    
+| Description:         | All maintenance work has been terminated successfully.               |
+| Affected:            | Customers of [NAME]                                                  |
